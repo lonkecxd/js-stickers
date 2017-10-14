@@ -33,7 +33,5 @@ node server.js
 ```
 6. 在根目录直接打开`index.html`即可。
 
- `index.html`打开速度比较慢，正在寻找解决办法。
-
  
  
